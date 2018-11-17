@@ -1,0 +1,5 @@
+markdown: kramdown
+permalink: /:year/:month/:title/
+url: http://sixf.org/cn
+author: 斯幸峰
+highlighter: rouge
