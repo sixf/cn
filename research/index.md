@@ -4,7 +4,7 @@ layout: page
 ---
 
 斯幸峰，[华东师范大学](http://www.ecnu.edu.cn)[生态与环境科学学院](http://www.sees.ecnu.edu.cn)研究员、博士生导师、紫江青年学者。2008年在浙江师范大学获学士学位，2014年在浙江大学获博士学位，曾先后在美国杜克大学 (Duke University)、哈佛大学 (Harvard University)、加拿大多伦多大学 (University of Toronto) 访问学习和工作，2018年入职华东师范大学。主要以浙江千岛湖陆桥岛屿系统以及华东地区的亚热带森林生态系统为平台，长期从事动物生态学、生物多样性、群落生态学、生物地理学和鸟类学等领域的研究工作。
-至今主持2项国家自然科学基金项目，参与其他国家级科研项目8项。在 *Journal of Animal Ecology, Ecology, Journal of Biogeography* 等国内外生态学重要期刊发表有关动物生态学、生物地理学等领域的学术论文20余篇。在国际鸟类学大会、国际生态学大会、国际生物地理学大会、国际岛屿生物学大会、中国鸟类学大会等国内外学术会议中作口头报告30余次。多次受邀为 *Nature Ecology and Evolution、Ecology Letters、Methods in Ecology and Evolution、Global Ecology and Biogeography* 等国际重要期刊审稿。曾获第十二届郑作新鸟类科学青年奖、第二届中国鸟类学研究生学术新人奖等荣誉称号。现任国际动物生态学领域的顶尖期刊 [*Journal of Animal Ecology*](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)1365-2656/) 副主编 (Associate Editor)、鸟类学期刊[*Avian Research*](https://avianres.biomedcentral.com) 编委。
+至今主持2项国家自然科学基金项目，参与其他国家级科研项目8项。在 *Journal of Animal Ecology, Ecology, Journal of Biogeography* 等国内外生态学重要期刊发表有关动物生态学、生物地理学等领域的学术论文20余篇。在国际鸟类学大会、国际生态学大会、国际生物地理学大会、国际岛屿生物学大会、中国鸟类学大会等国内外学术会议中作口头报告30余次。多次受邀为 *Nature Ecology and Evolution、Ecology Letters、Methods in Ecology and Evolution、Global Ecology and Biogeography* 等国际重要期刊审稿。曾获郑作新鸟类科学青年奖、优秀青年生态学工作者等荣誉称号。现任国际动物生态学领域的顶尖期刊 [*Journal of Animal Ecology*](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)1365-2656/) 副主编 (Associate Editor)、鸟类学期刊[*Avian Research*](https://avianres.biomedcentral.com) 编委。
 
 ----
 

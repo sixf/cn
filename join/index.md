@@ -15,7 +15,7 @@ layout: page
 
 斯幸峰，华东师范大学[生态与环境科学学院](http://www.sees.ecnu.edu.cn)研究员、博士生导师、紫江青年学者。2014年在浙江大学获博士学位，先后在杜克大学、哈佛大学、多伦多大学访问学习和工作，2018年入职华东师范大学，并组建**动物生态学研究组**。我们研究组主要以浙江千岛湖陆桥岛屿系统以及华东地区的亚热带森林生态系统为平台，长期从事动物生态学、生物多样性、群落生态学、生物地理学和鸟类学等领域的研究工作。
 
-目前主持项目主要包括2项国家自然科学基金项目，以及1项华东师范大学双百人才计划科研启动项目。在 *Journal of Animal Ecology, Ecology, Journal of Biogeography* 等国内外生态学主流期刊发表有关动物生态学、生物地理学等领域的[学术论文20余篇](http://sixf.org/cn/publication/)。曾获郑作新鸟类科学青年奖、优秀青年动物生态学工作者等荣誉称号。现任国际动物生态学领域的顶尖期刊 [*Journal of Animal Ecology*](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)1365-2656/) 副主编 (Associate Editor)，我国鸟类学期刊 [*Avian Research*](https://avianres.biomedcentral.com) 编委。
+目前主持项目主要包括2项国家自然科学基金项目，以及1项华东师范大学双百人才计划科研启动项目。在 *Journal of Animal Ecology, Ecology, Journal of Biogeography* 等国内外生态学主流期刊发表有关动物生态学、生物地理学等领域的[学术论文20余篇](http://sixf.org/cn/publication/)。曾获郑作新鸟类科学青年奖、优秀青年生态学工作者等荣誉称号。现任国际动物生态学领域的顶尖期刊 [*Journal of Animal Ecology*](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)1365-2656/) 副主编 (Associate Editor)，我国鸟类学期刊 [*Avian Research*](https://avianres.biomedcentral.com) 编委。
 
 ## 三、研究方向
 
