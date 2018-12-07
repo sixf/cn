@@ -31,6 +31,7 @@ layout: page
 ## 博客
 
 -	生态博客 (持续添加中)
+	-	[斯幸峰](http://sixf.org/cn/)
 	-	[ConservationBytes](http://conservationbytes.com)
 	-	[ALERT](http://alert-conservation.org)
 	-	[NatureThinker](http://www.naturethinker.org)
