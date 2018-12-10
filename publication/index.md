@@ -8,6 +8,7 @@ title: 研究成果
 ---
 
 1. <u>Si X</u>, Cadotte MW, Zhao Y, Zhou H, Zeng D, Li J, Jin T, Ren P, Wang Y, Ding P, Tingley MW. (2018) The importance of accounting for imperfect detection when estimating functional and phylogenetic community structure. **Ecology** 99: 2103–2112.
+1. Zeng D, Swihart RK, Zhao Y, <u>Si X</u>, Ding P. (2018) Cascading effects of forested area and isolation on seed dispersal effectiveness of rodents on subtropical islands. **Journal of Ecology**, *accepted*.
 1. Ehlers Smith DA, <u>Si X</u>, Ehlers Smith YC, Downs CT. (2018) Seasonal variation in avian diversity and tolerance by migratory forest specialists of the patch-isolation gradient across a fragmented forest system. **Biodiversity and Conservation**, *in press*. doi: 10.1007/s10531-018-1622-y.
 1. Zhang W, Liang C, Liu J, <u>Si X</u>, Feng G. (2018) Species richness, phylogenetic and functional structure of bird communities in Chinese university campuses are associated with divergent variables. **Urban Ecosystems**, *in press*. doi: 10.1007/s11252-018-0803-5.
 1. Ehlers Smith DA, <u>Si X</u>, Ehlers Smith YC, Kalle R, Ramesh T, Downs CT. (2018) Patterns of avian diversity across a decreasing patch-size gradient in a critically endangered sub-tropical forest system. **Journal of Biogeography** 45, 2118–2132.
