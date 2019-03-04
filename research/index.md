@@ -3,8 +3,13 @@ title: 个人简介
 layout: page
 ---
 
-斯幸峰，[华东师范大学](http://www.ecnu.edu.cn)[生态与环境科学学院](http://www.sees.ecnu.edu.cn)研究员、博士生导师、紫江青年学者。2008年在浙江师范大学获学士学位，2014年在浙江大学获博士学位，曾先后在美国杜克大学 (Duke University)、哈佛大学 (Harvard University)、加拿大多伦多大学 (University of Toronto) 访问学习和工作，2018年入职华东师范大学。主要以浙江千岛湖陆桥岛屿系统以及华东地区的亚热带森林生态系统为平台，长期从事动物生态学、生物多样性、群落生态学、生物地理学和鸟类学等领域的研究工作。
-至今主持2项国家自然科学基金项目，参与其他国家级科研项目8项。在 *Journal of Animal Ecology, Ecology, Journal of Biogeography* 等国内外生态学重要期刊发表有关动物生态学、生物地理学等领域的学术论文20余篇。在国际鸟类学大会、国际生态学大会、国际生物地理学大会、国际岛屿生物学大会、中国鸟类学大会等国内外学术会议中作口头报告30余次。多次受邀为 *Nature Ecology and Evolution、Ecology Letters、Methods in Ecology and Evolution、Global Ecology and Biogeography* 等国际重要期刊审稿。曾获郑作新鸟类科学青年奖、优秀青年生态学工作者等荣誉称号。现任国际动物生态学领域的顶尖期刊 [*Journal of Animal Ecology*](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)1365-2656/) 副主编 (Associate Editor)、我国鸟类学期刊 [*Avian Research*](https://avianres.biomedcentral.com) 编委。
+斯幸峰，[华东师范大学](http://www.ecnu.edu.cn)[生态与环境科学学院](http://www.sees.ecnu.edu.cn)研究员、博士生导师、紫江青年学者、上海市青年科技启明星。2008年在浙江师范大学获学士学位，2014年在浙江大学获博士学位，曾先后在美国杜克大学 (Duke University)、哈佛大学 (Harvard University)、加拿大多伦多大学 (University of Toronto) 访问学习和工作，2018年入职华东师范大学，并组建**动物生态学研究组**。
+
+依托浙江千岛湖科学研究基地、浙江天童森林生态系统国家野外科学观测研究站和浙江普陀山森林生态系统定位观测研究站等华东地区亚热带森林生态系统为研究平台，长期开展动物生态学、生物多样性、群落生态学、生物地理学、保护生物学和鸟类学等领域的研究工作。目前课题组的主要研究方向为：
+1) **群落生态学**：以食果鸟类和传粉昆虫为研究对象，构建种子传播网络和传粉网络，结合物种的功能和谱系信息探讨网络结构和群落的构建机制；
+2) **生物多样性**：利用红外触发相机、环境DNA和鸣声调查等方法长期监测野生动物资源状况，分析生境片段化和城市化等人类活动对动物多样性和生态系统功能的影响；
+3) **生物地理学**：围绕岛屿和片段化生境，从局域、区域和全球尺度开展岛屿生物地理学、功能和谱系生物地理学和海拔梯度等方面的研究工作。
+目前主持国家自然科学基金、上海市科委、华东师范大学双百人才计划科研启动经费等科研项目。在 *Ecology, Journal of Animal Ecology, Journal of Biogeography* 等国内外生态学重要期刊发表有关动物生态学、生物地理学等领域的学术论文20余篇。在国际鸟类学大会、国际生态学大会、国际生物地理学大会、国际岛屿生物学大会、中国鸟类学大会等国内外学术会议中作口头报告30余次。多次受邀为 *Nature Ecology and Evolution、Ecology Letters、Methods in Ecology and Evolution、Global Ecology and Biogeography* 等国际重要期刊审稿。入选上海市青年科技启明星计划，获郑作新鸟类科学青年奖、优秀青年生态学工作者等荣誉称号。现任 [*Journal of Animal Ecology*](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)1365-2656/) 副主编 (Associate Editor)、[*Avian Research*](https://avianres.biomedcentral.com) 编委。
 
 ----
 
@@ -33,17 +38,17 @@ layout: page
 
 ## 主要科研项目
 
+2019–2021 上海市科委青年科技启明星计划：城市化对崇明动物多样性和生态系统功能的影响
+
 2019–2022 国家自然科学基金面上项目 (31872210)：千岛湖片段化生境中动植物互惠网络的研究
 
 2018–2025 华东师范大学双百人才计划(紫江青年学者)科研启动经费
 
-2017–2019 浙江省科协技术协会育才工程项目 (2017YCGC007)
-
-2016–2018 国家自然科学基金青年科学基金项目 (31500453)：千岛湖片段化栖息地中鸟类和兽类群落的物种和功能beta多样性研究 
-
-2016–2018 全国博士后管委会博士后国际交流计划派出项目 (20160005)
+2016–2018 国家自然科学基金青年科学基金项目 (31500453)：千岛湖片段化栖息地中鸟类和兽类群落的物种和功能beta多样性研究
 
 ## 主要奖励荣誉
+
+2019 上海市青年科技启明星、上海市科委
 
 2018 优秀青年生态学工作者、中国生态学会
 
@@ -59,5 +64,5 @@ layout: page
  
 [*Avian Research*](https://avianres.biomedcentral.com) 编委 (2018–至今)
 
-审稿人：*Nature Ecology and Evolution、Ecology Letters、Methods in Ecology and Evolution、Journal of Animal Ecology、Ecology、Global Ecology and Biogeography、Functional Ecology、Ecography、Journal of Biogeography、Biological Conservation、生物多样性* 等期刊。详见[Publons](https://publons.com/author/1198034/xingfeng-si#profile)。
+审稿人：*Nature Ecology and Evolution, Ecology Letters, Ecology, Journal of Animal Ecology, Methods in Ecology and Evolution, Global Ecology and Biogeography, Ecography, Journal of Applied Ecology, Functional Ecology, Journal of Biogeography, Biological Conservation, Landscape Ecology* 等期刊。详见[Publons](https://publons.com/author/1198034/xingfeng-si#profile)。
 

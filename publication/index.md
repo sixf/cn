@@ -7,6 +7,7 @@ title: 研究成果
 
 ---
 
+1.Ding Z, Liang J, Hu Y, Sun H, Liu L, Liu H, Hu H, <u>Si X</u>. (2019) Different responses of avian feeding guilds to spatial and environmental factors across an elevation gradient in the central Himalaya. **Ecology and Evolution**, *in press*. doi: 10.1002/ece3.5040.
 1. Zeng D, Swihart RK, Zhao Y, <u>Si X</u>, Ding P. (2019) Cascading effects of forested area and isolation on seed dispersal effectiveness of rodents on subtropical islands. **Journal of Ecology**, *in press*. doi: 10.1111/1365-2745.13122.
 1. <u>Si X</u>, Cadotte MW, Zhao Y, Zhou H, Zeng D, Li J, Jin T, Ren P, Wang Y, Ding P, Tingley MW. (2018) The importance of accounting for imperfect detection when estimating functional and phylogenetic community structure. **Ecology**, 99, 2103–2112.
 1. Ehlers Smith DA, <u>Si X</u>, Ehlers Smith YC, Downs CT. (2018) Seasonal variation in avian diversity and tolerance by migratory forest specialists of the patch-isolation gradient across a fragmented forest system. **Biodiversity and Conservation**, 27, 3707–3727.
