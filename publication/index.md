@@ -7,6 +7,8 @@ title: 研究成果
 
 ---
 
+1. Cadotte MW, Carboni M, <u>Si X</u>, Tatsumi S. (2019) Do traits and phylogeny support congruent community diversity patterns and assembly inferences? **Journal of Ecology**, *accepted*.
+1. Chen C, Holyoak M, Wang Y, <u>Si X</u>, Ding P. (2019) Spatiotemporal distribution of seasonal bird assemblages on land-bridge islands: linking dynamic and static views of metacommunities. **Avian Research**, 10, 25.
 1. Ding Z, Liang J, Hu Y, Sun H, Liu L, Liu H, Hu H, <u>Si X</u>. (2019) Different responses of avian feeding guilds to spatial and environmental factors across an elevation gradient in the central Himalaya. **Ecology and Evolution**, 9, 4116–4128.
 1. Zeng D, Swihart RK, Zhao Y, <u>Si X</u>, Ding P. (2019) Cascading effects of forested area and isolation on seed dispersal effectiveness of rodents on subtropical islands. **Journal of Ecology**, 107, 1506–1517.
 1. <u>Si X</u>, Cadotte MW, Zhao Y, Zhou H, Zeng D, Li J, Jin T, Ren P, Wang Y, Ding P, Tingley MW. (2018) The importance of accounting for imperfect detection when estimating functional and phylogenetic community structure. **Ecology**, 99, 2103–2112.
