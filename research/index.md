@@ -9,7 +9,7 @@ layout: page
 1. **动植物关系与群落结构**：以食果鸟类和传粉昆虫为研究对象，结合物种的功能和谱系信息，从种子传播网络和传粉网络的角度探讨动物群落的构建机制；
 2. **生物多样性维持机制与保护**：利用红外触发相机、环境DNA和鸣声调查等方法长期监测野生动物资源状况，分析生境片段化和城市化等人类活动对动物多样性和生态系统功能的影响；
 3. **岛屿生物地理学**：围绕岛屿和片段化生境，从局域、区域和全球尺度开展岛屿生物地理学、功能和谱系生物地理学和海拔梯度等方面的研究工作。
-目前主持国家自然科学基金、上海市科委、华东师范大学双百人才计划科研启动经费等科研项目。在 *Ecology, Journal of Animal Ecology, Journal of Biogeography* 等国内外生态学重要期刊发表有关动物生态学、生物地理学等领域的学术论文20余篇。在国际鸟类学大会、国际生态学大会、国际生物地理学大会、国际岛屿生物学大会、中国鸟类学大会等国内外学术会议中作口头报告30余次。多次受邀为 *Nature Ecology and Evolution、Ecology Letters、Methods in Ecology and Evolution、Global Ecology and Biogeography* 等国际重要期刊审稿。入选上海市青年科技启明星计划，获郑作新鸟类科学青年奖、优秀青年生态学工作者等荣誉称号。现任 [*Journal of Animal Ecology*](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)1365-2656/) 副主编 (Associate Editor)、[*Avian Research*](https://avianres.biomedcentral.com) 编委。
+目前主持国家自然科学基金、上海市科委、华东师范大学双百人才计划科研启动经费等科研项目。在 *Ecology, Journal of Animal Ecology, Journal of Biogeography, Journal of Ecology* 等国内外生态学重要期刊发表有关动物生态学、生物地理学等领域的学术论文20余篇。在国际鸟类学大会、国际生态学大会、国际生物地理学大会、国际岛屿生物学大会、中国鸟类学大会等国内外学术会议中作口头报告30余次。多次受邀为 *Nature Ecology and Evolution、Ecology Letters、Methods in Ecology and Evolution、Global Ecology and Biogeography* 等国际重要期刊审稿。入选上海市青年科技启明星计划，获郑作新鸟类科学青年奖、优秀青年生态学工作者等荣誉称号。现任 [*Journal of Animal Ecology*](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)1365-2656/) 副主编 (Associate Editor)、[*Avian Research*](https://avianres.biomedcentral.com) 编委。
 
 ----
 
