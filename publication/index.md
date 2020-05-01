@@ -8,6 +8,7 @@ title: 研究成果
 ---
 
 1. Zhao Y, Dunn R, Zhou H, <u>Si X</u>\*, Ding P\*. (2020) Island area, not isolation, drives the taxonomic, phylogenetic and functional diversity of ants on land-bridge islands. **Journal of Biogeography**, *in press*.
+1. Wang N, Mao L, Yang X, <u>Si X</u>, Wang Y, Eiserhardt WL, Feng G\*. (2020) High plant species richness and stable climate lead to richer but phylogenetically and functionally clustered avifaunas. **Journal of Biogeography**, *in press*.
 1. Yang C\*, <u>Si X</u>, Liang W, Møller AP. (2020) Spatial variation in egg polymorphism among cuckoo hosts across four continents. **Current Zoology**, *in press*.
 1. Kays R\*, Arbogast BS, Baker-Whatton M, Beirne C, Boone HM, Bowler M, Burneo SF, Cove MV, Ding P, Espinosa S, Gonçalves ALS, Hansen CP, Jansen PA, Kolowski JM, Knowles TW, Lima MGM, Millspaugh J, McShea WJ, Pacifici K, Parsons AW, Pease BS, Rovero F, Santos F, Schuttler SG, Sheil D, <u>Si X</u>, Snider M, Spironello WR. (2020) An empirical evaluation of camera trap study design: how many, how long, and when? **Methods in Ecology and Evolution**, *in press*.
 1. Yang X, Wang Y, <u>Si X</u>, Feng G\*. (2020) Species traits linked with range shifts of Chinese birds. **Global Ecology and Conservation**, 21, e00874.
