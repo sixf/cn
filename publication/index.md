@@ -7,7 +7,9 @@ title: 研究成果
 
 ---
 
+1. Zhao Y, Sanders NJ, Liu J, Jin T, Zhou H, Lu R, Ding P, <u>Si X</u>\*. (2021) β diversity among ant communities on fragmented habitat islands: the roles of species trait, phylogeny and abundance. **Ecography**, in press.
 1. Zhu C, Li W, Gregory T, Wang D, Ren P, Zeng D, Kang Y, Ding P\*, <u>Si X</u>\*. (2021) Arboreal camera trapping: A reliable tool to monitor plant-frugivore interactions in the trees on large scales. <strong>Remote Sensing in Ecology and Conservation</strong>, in press.
+1. Liu J\*, Zhao Y, <u>Si X</u>, Feng G, Slik F, Zhang J. (2021) University campuses as valuable resources for urban biodiversity research and conservation. **Urban Forestry & Urban Greening**, 64, 127255.
 1. Zhang C, Cadotte MW, Chiarucci A, Loreau M, Willis GC, <u>Si X</u>, Li L\*, Cianciaruso MV. (2021) Scale-dependent shifts in functional and phylogenetic structure of Mediterranean island plant communities over two centuries. **Journal of Ecology**, in press.
 1. Ding Z, Hu H, Cadotte MW, Hu Y, Liang J, <u>Si X</u>\*. (2021) Elevational patterns of bird functional and phylogenetic structure in the central Himalaya. **Ecography**, in press. doi: ‪10.1111/ecog.05660.‬
 1. He W<sup>#</sup>, Zhang X<sup>#</sup>, Gao G, Gao M, Zhong F, Lv L, Cai Z, <span style="text-decoration:underline;">Si X</span>, Yang J\*, Liu J\*. (2021) Clonal spread of <em>Escherichia coli</em>&nbsp;O101: H9-ST10 and O101: H9-ST167 strains carrying <em>fosA3</em>&nbsp;and <em>bla</em><sub>CTX−M−14</sub>&nbsp;among diarrheal calves in a Chinese farm, with Australian <em>Chroicocephalus</em>&nbsp;as the possible origin of <em>E. coli</em>&nbsp;O101: H9-ST10. <strong>Zoological Research</strong>, 42, 461–468.
