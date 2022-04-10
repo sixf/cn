@@ -3,13 +3,17 @@ title: 个人简介
 layout: page
 ---
 
+<p><img src="http://sixf.org/files/images/avatar.jpg" width="100" title="Xingfeng Si" align="right" /></p>
+
+<small>注：该网页内容不再更新。最新信息可以参考[学校个人网页](https://faculty.ecnu.edu.cn/_s31/sxf2/main.psp)。</small>
+
 斯幸峰，[华东师范大学](http://www.ecnu.edu.cn)[生态与环境科学学院](http://www.sees.ecnu.edu.cn)研究员、博士生导师。2008年在浙江师范大学获学士学位，2014年在浙江大学获博士学位，曾先后在美国杜克大学、哈佛大学、加拿大多伦多大学学习和工作，2018年入职华东师范大学。
 
-依托浙江千岛湖陆桥岛屿系统和华东地区亚热带森林生态系统等研究平台，长期开展动物生态学、生物地理学、群落生态学、生物多样性、城市生态学、保护生物学和鸟类学等领域的研究工作。目前课题组的主要研究方向为：
-1. **动植物关系与群落结构**：以食果鸟类和传粉昆虫为研究对象，结合物种的功能和谱系信息，从种子传播网络和传粉网络的角度探讨动物群落的构建机制；
-2. **生物多样性维持机制与保护**：利用红外触发相机、环境DNA和鸣声调查等方法长期监测野生动物资源状况，分析生境片段化和城市化等人类活动对动物多样性和生态系统功能的影响；
-3. **岛屿生物地理学**：围绕岛屿和片段化生境，从局域、区域和全球尺度开展岛屿生物地理学、功能和谱系生物地理学和海拔梯度等方面的研究工作。
-目前主持国家自然科学基金、上海市科委、上海市教委等科研项目。在 *Ecology, Journal of Animal Ecology, Journal of Biogeography, Journal of Ecology* 等国内外生态学主流期刊发表有关生态学、生物地理学等领域的学术论文。在国际鸟类学大会、国际生态学大会、国际生物地理学大会、国际岛屿生物学大会、中国鸟类学大会等国内外学术会议中作口头报告30余次。多次受邀为 *Nature Ecology and Evolution、Ecology Letters、Methods in Ecology and Evolution、Global Ecology and Biogeography* 等国际重要期刊审稿。入选上海高校特聘教授（东方学者）、上海市青年科技启明星计划，获郑作新鸟类科学青年奖、优秀青年生态学工作者等荣誉称号。现任期刊 [*Avian Research*](https://avianres.biomedcentral.com) 、[*Biological Conservation*](https://www.journals.elsevier.com/biological-conservation)、[*Journal of Animal Ecology*](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)1365-2656/)编委。
+依托浙江千岛湖陆桥岛屿系统和华东地区亚热带森林生态系统，长期开展动物生态学、岛屿生物地理学、生境片段化与生物多样性保护等领域的研究工作。目前课题组的主要研究方向为：
+1. **动物多样性的维持与保护**：利用红外触发相机、鸣声监测和传统方法长期调查野生动物资源状况，探讨人类活动对动物多样性分布格局和维持机制的影响及生物多样性保护策略的研究；
+2. **种间关系与群落构建**：基于鸟类和兽类等动物类群，从互惠、竞争和捕食等种间关系的角度研究生态网络的结构和动物群落的构建机制；
+3. **岛屿生物地理学**：结合动物物种的功能性状和谱系关系信息开展岛屿生物地理学研究。
+目前主持国家自然科学基金、上海市科委、上海市教委等科研项目。在 *Ecology, Ecology Letters, Journal of Animal Ecology, Journal of Biogeography* 等主流期刊发表学术论文。受邀在第二十八届国际鸟类学大会做大会特邀报告 (2022年)。入选上海高校特聘教授（东方学者）、上海市青年科技启明星计划，获郑作新鸟类科学青年奖、优秀青年生态学工作者等荣誉称号。现任期刊 [*Avian Research*](https://avianres.biomedcentral.com) 、[*Biological Conservation*](https://www.journals.elsevier.com/biological-conservation)、[*Journal of Animal Ecology*](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)1365-2656/)、[*Zoological Research*](https://www.zoores.ac.cn/news/editorialboard.htm)副主编或编委。
 
 ----
 
@@ -65,12 +69,18 @@ layout: page
 2013 中国青年鸟类学家研讨会金翠鸟奖，中国动物学会鸟类学分会
 
 ## 学术服务与任职
-
-[*Journal of Animal Ecology*](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)1365-2656/) 编委 (2017–至今)
  
 [*Avian Research*](https://avianres.biomedcentral.com) 编委 (2018–至今)
 
-[*Biological Conservation*](https://www.journals.elsevier.com/biological-conservation) 编委 (2021–至今)
+[*Biological Conservation*](https://www.journals.elsevier.com/biological-conservation) 副主编 (2021–至今)
 
-审稿人：*Nature Ecology and Evolution, Nature Communications, Ecology Letters, Ecology, Journal of Animal Ecology, Methods in Ecology and Evolution, Global Ecology and Biogeography, Ecography, Journal of Applied Ecology, Functional Ecology, Journal of Biogeography, Biological Conservation, Landscape Ecology* 等期刊。详见[Publons](https://publons.com/author/1198034/xingfeng-si#profile)。
+[*Journal of Animal Ecology*](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)1365-2656/) 编委 (2017–至今)
+
+[*Zoological Research*](https://www.zoores.ac.cn/news/editorialboard.htm) 青年编委 (2012–至今)
+
+中国动物学会生物地理学分会第一届委员会委员 (2020–至今)
+
+中国动物学会鸟类学分会第十届委员会委员 (2022–至今)
+
+受邀为50余个期刊审稿百余次。详见[Publons](https://publons.com/author/1198034/xingfeng-si#profile)。
 

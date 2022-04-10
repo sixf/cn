@@ -3,11 +3,13 @@ layout: page
 title: 研究成果
 ---
 
-论文著作的完整列表详见于我的 [Google Scholar](http://scholar.google.com/citations?user=wI1qfPsAAAAJ&hl=en), 或 [ResearchGate](https://www.researchgate.net/profile/Xingfeng_Si).
+中文论文列表将不再更新，最新的论文著作的完整列表详见于我的 [Google Scholar](http://scholar.google.com/citations?user=wI1qfPsAAAAJ&hl=en), 或 [ResearchGate](https://www.researchgate.net/profile/Xingfeng_Si)，或者参考英文列表 [Publication List](http://sixf.org/en/publication/)。
 
 ---
 
-1. <u>Si X</u>\*, Cadotte MW, Davies TJ, Antonelli A, Ding P, Svenning J-C, Faurby S. (2022) Phylogenetic and functional clustering illustrate the roles of adaptive radiation and dispersal filtering in jointly shaping late-Quaternary mammal assemblages on oceanic islands. **Ecology Letters**, in press.
+1. Zeng C, Li W, Ding P, Peng Y\*, Wu L\*, <u>Si X</u>. (2022). A landscape-level analysis of bird taxonomic, functional and phylogenetic β-diversity in habitat island systems. **Journal of Biogeography**, in press.
+1. Liu J\*, MacDonald ZG, <u>Si X</u>, Wu L, Zeng D, Hu G, Ding P, Yu M. (2022). SLOSS-based inferences in a fragmented landscape depend on fragment area and species-area slope. **Journal of Biogeography**, in press. doi: 10.1111/jbi.14366.
+1. <u>Si X</u>\*, Cadotte MW, Davies TJ, Antonelli A, Ding P, Svenning J-C, Faurby S. (2022) Phylogenetic and functional clustering illustrate the roles of adaptive radiation and dispersal filtering in jointly shaping late-Quaternary mammal assemblages on oceanic islands. **Ecology Letters**, in press. doi: 10.1111/ele.13997.
 1. 阎恩荣\*, <u>斯幸峰</u>, 张健, 陈小勇. (2022) E. O. 威尔逊与岛屿生物地理学理论. **生物多样性**, 30, 22024.
 1. Wang X, Zhong M, Zhang J, <u>Si X</u>, Yang S, Jiang J, Hu J\*. (2022) Multiple dimensions of amphibian diversity and community structure along a 2600-m elevational gradient on the eastern margin of the Qinghai-Tibetan Plateau. **Zoological Research**, 43, 46–57.
 1. López-Bosch D, Rocha R, López-Baucells A, Wang Y, <u>Si X</u>, Ding P, Gibson L\*, Palmeirim AF\*. (2021) Passive acoustic monitoring reveals role of habitat affinity in sensitivity of sub-tropical East Asian bats to fragmentation. **Remote Sensing in Ecology and Conservation**, in press. doi: 10.1002/rse2.237.
